@@ -1,0 +1,24 @@
+New log file opened at Sun May 21 23:28:17 IST 2017 by 25706@ruchika
+Taking next connection to: 34507
+New client attempting to connect on port: 57480-34507
+  Address = /127.0.1.1:34507
+This client on port 57480 has uuid 58313e8f-8c59-4c35-ad2a-ded297a4e106 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-58313e8f-8c59-4c35-ad2a-ded297a4e106
+Taking next connection to: 34507
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 34507
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 34507
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 34507
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 34507
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
